@@ -1,5 +1,5 @@
 import os,math
 if __name__=='__main__':
- g=math.cosh(7.61)
- i=str(g)+'ionaup'
+ g=math.cosh(3.821)
+ i=str(g)+'ruaisn'
  print(i)
