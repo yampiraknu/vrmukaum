@@ -1,5 +1,5 @@
-import os,math
+import sys,os
 if __name__=='__main__':
- g=math.cosh(2.5)
- i=str(g)+'kuans'
- print(i)
+  g=math.cos(4.5)
+  i=str(g)+'qisega'
+  print(i)
