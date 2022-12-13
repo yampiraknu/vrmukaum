@@ -1,5 +1,5 @@
 import sys,os,math
 if __name__=='__main__':
-  g=math.cos(8.9)
-  i=str(g)+'volug'
+  g=math.cos(3.7)
+  i=str(g)+'bifan'
   print(i)
